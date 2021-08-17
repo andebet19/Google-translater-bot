@@ -1,1 +1,1 @@
-worker:paython3 bot.py
+worker: paython3 bot.py
